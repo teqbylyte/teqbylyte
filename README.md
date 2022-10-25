@@ -1,4 +1,4 @@
-## 👋 Hello, Lyte here!
+## 👋🏾 Hello, Lyte here!
 
 -  A PHP/Laravel developer, mostly. There's also Vue.Js and Flutter.
 - ✨ I’m interested in building the best software solutions to solving problems.
