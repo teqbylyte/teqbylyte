@@ -1,9 +1,9 @@
 ## 👋 Hello, Lyte here!
 
 -  A PHP/Laravel developer, mostly. There's also Vue.Js and Flutter.
-- 👀 I’m interested in building the best software solutions to solving problems.
-- 🌱 I’m currently learning Kotlin cos I'm a sucker android.
-- 💞️ I’m looking to collaborate on building packages to ease development techniques.
+- ✨ I’m interested in building the best software solutions to solving problems.
+- 📱 I’m currently learning Kotlin cos I'm a sucker android.
+- 👨🏾‍💻 I’m looking to collaborate on building packages to ease development techniques.
 - 📫 You can reach me on lyte.onyema@gmail.com
 
 <!---
