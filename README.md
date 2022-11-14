@@ -19,7 +19,7 @@
   </a>
 </p>
 
--  👨🏾‍💻 Looking to collaborate on building packages to ease development techniques.
+-  👨🏾‍🔧 Looking to collaborate on building packages to ease development techniques.
 -  👨🏾‍💻 Very Interested in building the best software solutions.
 
 
@@ -33,7 +33,7 @@
 
 #
 
--  📩 [lyte.onyema@gmail.com](mailto:lyte.onyema@gmail.com) 
+-  📬 [lyte.onyema@gmail.com](mailto:lyte.onyema@gmail.com) 
 
 <p>
   &nbsp;&nbsp;&nbsp;
