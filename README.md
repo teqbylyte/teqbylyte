@@ -33,7 +33,7 @@
 
 #
 
--  📩 You can reach me on [lyte.onyema@gmail.com](mailto:lyte.onyema@gmail.com) 
+-  📩 [lyte.onyema@gmail.com](mailto:lyte.onyema@gmail.com) 
 
 <p>
   &nbsp;&nbsp;&nbsp;
