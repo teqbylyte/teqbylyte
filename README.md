@@ -1,11 +1,26 @@
 ## 👋🏾 Hello, Lyte here!
 
--  A PHP/Laravel developer, mostly. Also profecient in Vue.Js and Flutter.
+
+<p align="left" style="margin-right: 50px;">&nbsp;&nbsp;&nbsp; 
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer" style="margin-right: 100px;"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="30" height="30"/>
+  </a> &nbsp;&nbsp;&nbsp;
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="30" height="30"/> 
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="30" height="30"/> 
+  </a> &nbsp;&nbsp;&nbsp;
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="30" height="30"/> 
+  </a> &nbsp;&nbsp;&nbsp;
+  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="30" height="30"/> 
+  </a>
+</p>
+
 -  👨🏾‍💻 Looking to collaborate on building packages to ease development techniques.
 -  👨🏾‍💻 Very Interested in building the best software solutions.
-
-
-
 
 
 #
