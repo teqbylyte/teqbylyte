@@ -25,7 +25,7 @@
 
 #
 ### GitHub Analytics
-<!--- <img align="center" alt="teqbylyte's Github Stats" src="https://github-readme-stats.vercel.app/api?username=teqbylyte&show_icons=true&hide_border=true&theme=algolia&count_private=true&hide=issues,contribs"/> --->
+<img align="center" alt="teqbylyte's Github Stats" src="https://github-readme-stats.vercel.app/api?username=teqbylyte&show_icons=true&hide_border=true&theme=algolia&count_private=true&hide=issues,contribs"/>
 <img align="center" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=teqbylyte&layout=compact&langs_count=10&theme=algolia&hide_border=true"/>
 <img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=teqbylyte&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia&line_height=0&hide_border=true" />
 
