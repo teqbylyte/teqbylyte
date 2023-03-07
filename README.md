@@ -21,7 +21,7 @@
 
 -  👨🏾‍🔧 Looking to collaborate on building packages to ease development techniques.
 -  👨🏾‍💻 Very Interested in building the best software solutions.
-
+-  📬 [lyte.onyema@gmail.com](mailto:lyte.onyema@gmail.com) 
 
 #
 ### GitHub Analytics
@@ -32,8 +32,6 @@
 
 
 #
-
--  📬 [lyte.onyema@gmail.com](mailto:lyte.onyema@gmail.com) 
 
 <!-- <p>
   &nbsp;&nbsp;&nbsp;
