@@ -35,7 +35,7 @@
 
 -  📬 [lyte.onyema@gmail.com](mailto:lyte.onyema@gmail.com) 
 
-<p>
+<!-- <p>
   &nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/blvcklyte" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="teqbylyte twitter" height="20" width="20" />
@@ -46,7 +46,7 @@
   <a href="https://www.linkedin.com/in/teqbylyte/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="teqbylyte linkedin" height="20" width="20" />
   </a>
-</p>
+</p> -->
 
 <!---
 teqbylyte/teqbylyte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
