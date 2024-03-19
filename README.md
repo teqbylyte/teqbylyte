@@ -3,7 +3,7 @@
 
 <p align="left" style="margin-right: 50px;">&nbsp;&nbsp;&nbsp; 
   <a href="https://laravel.com/" target="_blank" rel="noreferrer" style="margin-right: 100px;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="30" height="30"/>
+    <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="30" height="30"/>
   </a> &nbsp;&nbsp;&nbsp;
   <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="30" height="30"/> 
