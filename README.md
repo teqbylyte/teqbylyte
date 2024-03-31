@@ -15,10 +15,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="30" height="30"/> 
   </a> &nbsp;&nbsp;&nbsp;
   <a href="https://golang.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="kotlin" width="30" height="30"/> 
-  </a>
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="30" height="30"/> 
+    <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="golang" width="30" height="30"/> 
   </a>
 </p>
 
